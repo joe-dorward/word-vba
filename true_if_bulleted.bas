@@ -1,5 +1,5 @@
-Sub ListType_Bullets
-  ' Lists.Item(1) - is the first-list
+Sub True_if_bulleted
+  ' Lists.Item(1) - is the first-list in the document
   ' ListParagraphs.Item(1) - is first-paragraph
   ' MsgBox returns True if the first-paragraph in the first-list is bulleted
 
