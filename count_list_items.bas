@@ -1,4 +1,4 @@
-Sub show_list_items_count
+Sub count_list_items
   ' steps through the lists in the active-document
   ' MsgBox shows number of list-paragraphs in each list
   
