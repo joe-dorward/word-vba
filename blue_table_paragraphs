@@ -1,6 +1,7 @@
-' This sub-procedure steps through the paragraphs of each table setting the TextColor of each
-Sub Turn_Table_Paragraphs_Blue()
-
+Sub blue_table_paragraphs()
+  ' steps through the tables in the active-document
+  ' sets text-color of table-paragraphs to blue
+  
   For Each Table In ActiveDocument.Tables ' step through tables
 
     For Paragraph = 1 To (Table.Range.Paragraphs.Count - 1) ' step through paragraphs
