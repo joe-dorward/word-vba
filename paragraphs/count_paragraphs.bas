@@ -1,5 +1,5 @@
 Sub count_paragraphs()
-  ' steps through the paragraphs in the active-document
+  ' steps through the Paragraphs collection, counting
 
     Dim ParagraphCounter As Integer
     ParagraphCounter = 0
