@@ -1,4 +1,4 @@
-Sub Get_List_ListParagraph_ListType()
+Sub get_list_listparagraph_listtype()
   ' get the list-type (of a) list-paragraph (of a) list
   ' for more on enumerated list-types, see: https://docs.microsoft.com/en-us/office/vba/api/word.wdlisttype
     
