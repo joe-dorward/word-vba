@@ -1,5 +1,5 @@
 ' this function returns the path to the active-document
-Function Get_Path()
+Function Get_Path() As String
 
   Dim PathLength As Integer
 
