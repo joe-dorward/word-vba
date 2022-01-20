@@ -1,5 +1,5 @@
 ' Documents have a collection of Hyperlinks
-Sub get_hyperlinks_count()
+Sub get_hyperlink_count()
 
     MsgBox ActiveDocument.Hyperlinks.Count
     
