@@ -1,4 +1,4 @@
-Sub Selection_Selected_Text()
+Sub Get_Selected_Text()
 
   Dim SelectedText As String
   
