@@ -1,4 +1,4 @@
-Sub Selection_ParagraphNumbers()
+Sub Get_Selected_Paragraph_Numbers()
 
   Dim SelectionStart As Integer
   Dim SelectionEnd As Integer
